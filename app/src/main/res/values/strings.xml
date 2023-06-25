@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageFilterTest</string>
+    <string name="alt_text">代替テキストです</string>
+</resources>
